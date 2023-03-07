@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/coloria-dev/"><img alt="coloria" src="https://raw.githubusercontent.com/coloria-dev/.github/main/logo/coloria-logo.png" width="20%"></a>
+  <a href="https://github.com/coloria-dev/"><img alt="coloria" src="https://raw.githubusercontent.com/coloria-dev/.github/main/logo/coloria-logo.png" width="40%"></a>
   <p align="center">Color research and development.</p>
 </p>
 
